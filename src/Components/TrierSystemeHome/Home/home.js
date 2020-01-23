@@ -1,20 +1,15 @@
 import React, {Component} from 'react';
 import home from './home.css';
-
+import NavHome from '../Nav/NavHome'
 
 class Home extends Component {
+    
     render() {
         return (
         <div className="home">
-           
-           <nav class="navbar navbar-light bg-light">
-            <a class="navbar-brand" href="./home">
-            <img src="https://i.postimg.cc/R08jQx4w/e4dd6ade-7b9b-4073-b5c9-c4c6b532acfc-200x200.png" width="110" height="100" ></img>
-            </a>
-            <a class="navbar-brand" href="./home">instrucciones</a>
-            <a class="navbar-brand" href="./home">contacto</a>
-            <button type="button" class="btn btn-outline-primary">SIGN IN</button>
-            </nav>
+           <div>
+               <NavHome/>
+           </div>
 
             <div className="card">
             <h5 className="card-header">info</h5>
@@ -29,11 +24,6 @@ class Home extends Component {
                 <button className="btn btn-outline-info">Sign Up</button>
                 </div>
             </div>
-
-
-           
-
-
         </div>
       )
       
