@@ -10,7 +10,7 @@ class NavHome extends Component {
             </a>
             <a className="navbar-brand" href="./home">instrucciones</a>
             <a className="navbar-brand" href="./home">contacto</a>
-            <a href="http://localhost:3000/#/login" className="btn btn-outline-primary" role="button" aria-disabled="true">Sign in</a>
+            <a href="http://localhost:3000/#/login" className="btn btn-outline-primary" role="button" aria-disabled="true">Entrar</a>
         </nav>
       
     )
