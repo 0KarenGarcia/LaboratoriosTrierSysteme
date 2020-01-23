@@ -2,14 +2,18 @@
     background-image: url("https://i.postimg.cc/x1cTjg4F/trier-Systeme-3.jpg");
     background-repeat: no-repeat;
     background-attachment: scroll;
-    background-position: center;
+    background-size: 45%;
+    background-position: 15%;
+ 
+  
 
 }
 
 .card{
     background-color:white;
     width: 25%;
-    margin: 100%;
+    margin: 30%;
+    margin-top: 30%;
     text-align: center;
     position: 100% 100%;
- }
+}
