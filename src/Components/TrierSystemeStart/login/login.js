@@ -25,8 +25,8 @@ class SingIn extends Component {
               <input type="checkbox" className="form-check-input" id="exampleCheck1"></input>
               <label class="form-check-label" for="exampleCheck1">Acepto terminos y condiciones </label>
             </div>
-            {/* <a href="https://0karengarcia.github.io/LaboratoriosTrierSysteme/#/collectionBD" className="btn btn-outline-info" role="button" aria-disabled="true">Entrar</a> */}
-            <a href="http://localhost:3000/#/collectionBD" className="btn btn-outline-info" role="button" aria-disabled="true">Entrar</a>
+            <a href="https://0karengarcia.github.io/LaboratoriosTrierSysteme/#/collectionBD" className="btn btn-outline-info" role="button" aria-disabled="true">Entrar</a>
+            {/* <a href="http://localhost:3000/#/collectionBD" className="btn btn-outline-info" role="button" aria-disabled="true">Entrar</a> */}
           </form>
           </div>
          </div>
