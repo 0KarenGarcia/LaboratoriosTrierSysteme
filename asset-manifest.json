@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/LaboratoriosTrierSysteme/static/css/main.2049de2b.chunk.css",
-    "main.js": "/LaboratoriosTrierSysteme/static/js/main.8c92e52a.chunk.js",
-    "main.js.map": "/LaboratoriosTrierSysteme/static/js/main.8c92e52a.chunk.js.map",
+    "main.css": "/LaboratoriosTrierSysteme/static/css/main.88596f2a.chunk.css",
+    "main.js": "/LaboratoriosTrierSysteme/static/js/main.51342122.chunk.js",
+    "main.js.map": "/LaboratoriosTrierSysteme/static/js/main.51342122.chunk.js.map",
     "runtime-main.js": "/LaboratoriosTrierSysteme/static/js/runtime-main.cc30d392.js",
     "runtime-main.js.map": "/LaboratoriosTrierSysteme/static/js/runtime-main.cc30d392.js.map",
-    "static/js/2.81adeed2.chunk.js": "/LaboratoriosTrierSysteme/static/js/2.81adeed2.chunk.js",
-    "static/js/2.81adeed2.chunk.js.map": "/LaboratoriosTrierSysteme/static/js/2.81adeed2.chunk.js.map",
+    "static/js/2.29cab5a2.chunk.js": "/LaboratoriosTrierSysteme/static/js/2.29cab5a2.chunk.js",
+    "static/js/2.29cab5a2.chunk.js.map": "/LaboratoriosTrierSysteme/static/js/2.29cab5a2.chunk.js.map",
     "index.html": "/LaboratoriosTrierSysteme/index.html",
-    "precache-manifest.bf452c903b7f74ecebbcd6fa39bf2c6b.js": "/LaboratoriosTrierSysteme/precache-manifest.bf452c903b7f74ecebbcd6fa39bf2c6b.js",
+    "precache-manifest.ec13b4a89a74a8e20f9220f0331fc89a.js": "/LaboratoriosTrierSysteme/precache-manifest.ec13b4a89a74a8e20f9220f0331fc89a.js",
     "service-worker.js": "/LaboratoriosTrierSysteme/service-worker.js",
-    "static/css/main.2049de2b.chunk.css.map": "/LaboratoriosTrierSysteme/static/css/main.2049de2b.chunk.css.map",
-    "static/js/2.81adeed2.chunk.js.LICENSE": "/LaboratoriosTrierSysteme/static/js/2.81adeed2.chunk.js.LICENSE"
+    "static/css/main.88596f2a.chunk.css.map": "/LaboratoriosTrierSysteme/static/css/main.88596f2a.chunk.css.map",
+    "static/js/2.29cab5a2.chunk.js.LICENSE": "/LaboratoriosTrierSysteme/static/js/2.29cab5a2.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.cc30d392.js",
-    "static/js/2.81adeed2.chunk.js",
-    "static/css/main.2049de2b.chunk.css",
-    "static/js/main.8c92e52a.chunk.js"
+    "static/js/2.29cab5a2.chunk.js",
+    "static/css/main.88596f2a.chunk.css",
+    "static/js/main.51342122.chunk.js"
   ]
 }
