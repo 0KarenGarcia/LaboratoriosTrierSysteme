@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/LaboratoriosTrierSysteme/precache-manifest.b7484c4a56733ee90a21863b2d32a86e.js"
+  "/LaboratoriosTrierSysteme/precache-manifest.90d007e5a813f8831b748b2a555c59a0.js"
 );
 
 self.addEventListener('message', (event) => {

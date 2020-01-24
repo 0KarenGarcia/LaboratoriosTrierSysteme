@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/LaboratoriosTrierSysteme/static/css/main.88596f2a.chunk.css",
-    "main.js": "/LaboratoriosTrierSysteme/static/js/main.46855f67.chunk.js",
-    "main.js.map": "/LaboratoriosTrierSysteme/static/js/main.46855f67.chunk.js.map",
+    "main.js": "/LaboratoriosTrierSysteme/static/js/main.00745db6.chunk.js",
+    "main.js.map": "/LaboratoriosTrierSysteme/static/js/main.00745db6.chunk.js.map",
     "runtime-main.js": "/LaboratoriosTrierSysteme/static/js/runtime-main.cc30d392.js",
     "runtime-main.js.map": "/LaboratoriosTrierSysteme/static/js/runtime-main.cc30d392.js.map",
-    "static/js/2.29cab5a2.chunk.js": "/LaboratoriosTrierSysteme/static/js/2.29cab5a2.chunk.js",
-    "static/js/2.29cab5a2.chunk.js.map": "/LaboratoriosTrierSysteme/static/js/2.29cab5a2.chunk.js.map",
+    "static/js/2.55091e05.chunk.js": "/LaboratoriosTrierSysteme/static/js/2.55091e05.chunk.js",
+    "static/js/2.55091e05.chunk.js.map": "/LaboratoriosTrierSysteme/static/js/2.55091e05.chunk.js.map",
     "index.html": "/LaboratoriosTrierSysteme/index.html",
-    "precache-manifest.b7484c4a56733ee90a21863b2d32a86e.js": "/LaboratoriosTrierSysteme/precache-manifest.b7484c4a56733ee90a21863b2d32a86e.js",
+    "precache-manifest.90d007e5a813f8831b748b2a555c59a0.js": "/LaboratoriosTrierSysteme/precache-manifest.90d007e5a813f8831b748b2a555c59a0.js",
     "service-worker.js": "/LaboratoriosTrierSysteme/service-worker.js",
     "static/css/main.88596f2a.chunk.css.map": "/LaboratoriosTrierSysteme/static/css/main.88596f2a.chunk.css.map",
-    "static/js/2.29cab5a2.chunk.js.LICENSE": "/LaboratoriosTrierSysteme/static/js/2.29cab5a2.chunk.js.LICENSE"
+    "static/js/2.55091e05.chunk.js.LICENSE": "/LaboratoriosTrierSysteme/static/js/2.55091e05.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.cc30d392.js",
-    "static/js/2.29cab5a2.chunk.js",
+    "static/js/2.55091e05.chunk.js",
     "static/css/main.88596f2a.chunk.css",
-    "static/js/main.46855f67.chunk.js"
+    "static/js/main.00745db6.chunk.js"
   ]
 }
