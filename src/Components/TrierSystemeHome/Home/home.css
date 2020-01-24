@@ -4,15 +4,13 @@
     background-attachment: scroll;
     background-size: 45%;
     background-position: 15%;
- 
-  
-
 }
-
 .card{
     background-color:white;
     width: 25%;
-    margin: 30%;
+    margin-top: 20%;
+    margin-left: 60%;
     text-align: center;
-    position: 100% 100%;
+    
 }
+

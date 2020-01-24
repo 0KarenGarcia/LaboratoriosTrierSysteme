@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import home from './home.css';
+import './home.css';
 import NavHome from '../Nav/NavHome'
 
 class Home extends Component {
