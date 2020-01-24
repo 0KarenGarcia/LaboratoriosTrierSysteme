@@ -4,6 +4,7 @@ import './login.css';
 class SingIn extends Component {
     render() {
         return (
+          <div className="home">
           <div className="cardLogin">
             <form>
             <div>
@@ -27,6 +28,8 @@ class SingIn extends Component {
             <button type="submit" className="btn btn-outline-primary">Entrar</button>
           </form>
           </div>
+         </div>
+
             )
       
     }
