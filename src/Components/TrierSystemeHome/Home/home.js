@@ -29,7 +29,7 @@ class Home extends Component {
                 con buena administración.
                 Clasificando medicamentos, patentes y toda
                 la información necesaria</p>
-                <a href="http://localhost:3000/#/login" className="btn btn-outline-info" role="button" aria-disabled="true">Registrarse</a>
+                <a href="https://0karengarcia.github.io/LaboratoriosTrierSysteme/#/login" className="btn btn-outline-info" role="button" aria-disabled="true">Registrarse</a>
                 </div>
             </div>
             
